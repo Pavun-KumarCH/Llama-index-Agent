@@ -33,7 +33,7 @@ The AI-Enhanced Content Generation system utilizes LlamaIndex and Gemini Model P
 
 ## Workflow
 
-![Workflow Diagram](https://github.com/Pavun-KumarCH/Llama-index-Agent/blob/main/assets/LangChain and LlamaIndex.png)
+![Workflow Diagram](https://github.com/Pavun-KumarCH/Llama-index-Agent/blob/main/assets/LangChainandLlamaIndex.png)
 
 ![Workflow Diagram](https://github.com/Pavun-KumarCH/Llama-index-Agent/blob/main/assets/basic_rag.png)
 
