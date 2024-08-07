@@ -43,13 +43,13 @@ To set up and run the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Pavun-KumarCH/Langchain-Llamaindex-integration-with-Gemeni-API.git
+   git clone https://github.com/Pavun-KumarCH/Llama-index-Agent/blob/main/README.md.git
 3. **Install Dependencies:**
    ```
    pip install -r requirements.txt
 4. **Run the Application:**
    ```
-   python app.py
+   streamlit app.py
 5. **Upload Your PDFs:**
    - Access the application through your browser or terminal interface.
    -  Upload the course PDFs to generate summaries.
