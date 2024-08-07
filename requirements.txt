@@ -1,0 +1,9 @@
+ipykernel
+python-dotenv
+google-generativeai
+pypdf
+IPython
+llama-index-embeddings-gemini
+llama-index
+streamlit
+
