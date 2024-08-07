@@ -5,5 +5,8 @@ pypdf
 IPython
 llama-index-embeddings-gemini
 llama-index
+llama-index-llms-gemini
 streamlit
+tqdm
+
 
