@@ -13,8 +13,7 @@ def main():
 
     if st.button("Submit & Process"):
             with st.spinner("Processing..."):
-                raw_text = get_pdf_text(pdf_docs)
-                document = load_data(doc)
+                document = load_data(pdf_docs)
                 model = load_model()
                 query_engine = download_gemini_embedding(model, document)
                 st.success("Done")
