@@ -93,7 +93,7 @@ Implemented tasks:
 - **User Interface**: Develop a more intuitive user interface for easier interaction.
 
 ## Contributing
-Feel free to contribute to this project by submitting issues, suggesting improvements, or making pull requests. For detailed contributing guidelines, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Feel free to contribute to this project by submitting issues, suggesting improvements, or making pull requests. For detailed contributing guidelines.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
