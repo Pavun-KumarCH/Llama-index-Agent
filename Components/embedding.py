@@ -20,7 +20,7 @@ def download_gemini_embedding(model, document):
     try:
         logging.info("Loading The Embedding Model...")
         gemini_embed_model = GeminiEmbedding(model_name = "models/text-embedding-004")
-        servicecontext = ServiceContext.from_defaults(llm = model, embed_model = gemini_embed_model, chunk_size = 10000, chunk_overlap = 1000)
+        servicecontext = ServiceContext.from_defaults(llm = model, embed_model = gemini_embed_model, chunk_size = 1000, chunk_overlap = 500)
 
         logging.info("")
         index = VectorStoreIndex.from_documents(document, service_context = servicecontext)
